@@ -1,4 +1,4 @@
-#student management system
+student management system
 A simple C program to manage student records (add, display, search, delete) using structures and a menu-driven system.
 What This Project Includes
 • Student structure (Roll No., Name, Marks)
@@ -15,4 +15,3 @@ How to Run the Program
 gcc student_management.c -o sms 
 • Run:
 ./sms 
-If you need a more advanced README (badges, screenshots, GitHub formatting), I can make it too.
